@@ -1,0 +1,6 @@
+/conf.ini
+/go.mod
+/go.sum
+logData
+.vscode
+log
